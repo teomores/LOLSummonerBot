@@ -3,7 +3,7 @@
 </p>
 
 # LOLSummonerBot
-This is the code of my Telegram Bot for tracking friends' activity on [League of Legends](https://play.euw.leagueoflegends.com/).
+This is the code of my Telegram Bot for tracking friends' activity on [League of Legends](https://euw.leagueoflegends.com/).
 The idea is the following: you subscribe to a set of League summoners and the bot will send you notifications everytime that one of the summoner that you are subscribed to enters a game and an other notification when the game is finished as well.
 The purpose is both to give you push notification for famous streamers or league players that you'd like to follow as well as to receive a message everytime that a friend of yours is playing, so that you can join :)
 
